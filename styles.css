@@ -1,0 +1,28 @@
+/*This is a Comment*/
+
+h1 {
+  color: pink;
+  font-family: monospace;
+  font-size: 30px;
+  text-shadow: 1.5px 1.5px;
+}
+h2 {
+  color: pink;
+  font-size: 20px;
+  font-family: monospace;
+}
+button {
+  color: pink;
+  background: black;
+  font-family: monospace;
+}
+body {
+  background: black;
+  font-family:monospace;
+  font-size: 15px;
+  color: white;
+}
+img {
+  box-shadow: 20px 20px grey;
+}
+
